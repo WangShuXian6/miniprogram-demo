@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "abstract-com": "../abstractCom/abstractCom",
+    "com1": "../com1/com1",
+    "com2": "../com2/com2"
+  }
+}

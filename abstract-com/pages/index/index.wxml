@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="container">
+    <abstract-com generic:abstract="com1"></abstract-com>
+    <abstract-com generic:abstract="com2"></abstract-com>
+</view>
