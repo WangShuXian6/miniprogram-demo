@@ -1,7 +1,9 @@
 {
   "component": true,
   "componentGenerics": {
-    "abstract": true
+    "abstract": {
+      "default": "../com1/com1"
+    }
   },
   "usingComponents": {}
 }
