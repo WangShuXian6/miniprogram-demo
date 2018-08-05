@@ -1,0 +1,5 @@
+/* pages/async.wxss */
+text{
+    display: flex;
+    width: 100%;
+}

@@ -1,0 +1,14 @@
+/* pages/com/com.wxss */
+.slide{
+
+  height: 400rpx;
+  background-color: aquamarine;
+}
+.left{
+  width: 750rpx;
+  height: 400rpx;
+  background-color: #f9ff84;
+}
+.right{
+  background-color: bisque;
+}

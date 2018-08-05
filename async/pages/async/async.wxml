@@ -1,0 +1,7 @@
+<!--pages/async.wxml-->
+<view>
+    <text>pages/async.wxml</text>
+    <text>{{num}}</text>
+    <image  src="../avatar.jpg"/>
+</view>
+
